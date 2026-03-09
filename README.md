@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently working on full-stack web applications using React and Node.js, focusing on clean UI and scalable APIs. I’m interested in collaborating on open-source projects and web solutions that solve real-world problems. I’m looking to improve my backend architecture skills, particularly around authentication, security, performance, and production best practices. I’m currently learning advanced React patterns, REST APIs, JWT authentication, and deployment of full-stack applications.
+I’m currently working on full-stack web applications using React, Node.js, Python, and FastAPI, focusing on clean UI and scalable backend systems. I’m building AI pipelines and GenAI applications, including RAG architectures, LLM integrations, and vector databases. I’m interested in collaborating on open-source projects and real-world web/AI solutions. Currently improving my backend architecture skills around authentication, security, performance, and production best practices, while exploring advanced React patterns, REST APIs, JWT authentication, and deployment of full-stack & AI applications.
 
 
 ## 🌐 Socials:
